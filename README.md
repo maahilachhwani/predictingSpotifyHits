@@ -1,6 +1,7 @@
 # predictingSpotifyHits
 
- Problem Definition
+ Problem Definition:
+ 
 In this dataset created by fetching features from Spotify’s Web API, we try to classify a track as a ‘Hit’ or not for every decade from 1960 to 2019. We try to use multiple classification models and assess their performance to pick the optimal one.
  
  The dataset for this project is acquired from Kaggle:
